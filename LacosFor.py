@@ -73,7 +73,6 @@ print("*" * 40)
 for i in range(len(nomes)):
     print(f"{i + 1} - {nomes[i]}")
 
-
 nomes = [] # Cria uma lista vazia
 continua = "s"
 while continua == "s":
