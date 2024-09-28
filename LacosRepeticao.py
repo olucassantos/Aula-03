@@ -25,12 +25,12 @@
 #     contador += 1
 
 # 4 - Crie um programa que solicite ao usuário qual a tabuada desejada e escreva a tabuada correspondente.
-continuar = "s"
-while continuar == "s":
-    tabuada = int(input("Digite a tabuada desejada: "))
-    contador = 0
-    while contador <= 10:
-        print(f"{tabuada} x {contador} = {contador * tabuada}")
-        contador += 1
+# continuar = "s"
+# while continuar == "s":
+#     tabuada = int(input("Digite a tabuada desejada: "))
+#     contador = 0
+#     while contador <= 10:
+#         print(f"{tabuada} x {contador} = {contador * tabuada}")
+#         contador += 1
 
-    continuar = input("Deseja continuar? (s/n): ")
+#     continuar = input("Deseja continuar? (s/n): ")
